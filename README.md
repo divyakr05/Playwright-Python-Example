@@ -3,5 +3,7 @@ This repository contains a Playwright framework designed for automating testing 
 
 # Project Structure
 
-<src="https://github.com/user-attachments/assets/8496ecc1-ffe0-417c-b49a-26841061f6cf" />
+<img width="230" alt="Screenshot 2025-06-27 172203" src="https://github.com/user-attachments/assets/5f0f62c2-db25-4f93-b101-b36c51156901" />
+
+
 
