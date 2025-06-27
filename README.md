@@ -2,15 +2,4 @@
 
 # Project Structure
 
-gmx-test-automation framework/
-├── tests/
-│   └── login_test.py
-    └── base_test.py
-├── pages/
-│   └── login_page.py
-    └── base_page.py
-├── utilities/
-│   └── read_config.py
-├── config.json
-├── conftest.py
-└── pytest.ini
+<img width="207" alt="Screenshot 2025-06-27 172203" src="https://github.com/user-attachments/assets/d69b96cc-cf54-4517-b9b1-220ec72499ec" />
